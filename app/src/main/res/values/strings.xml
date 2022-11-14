@@ -1,0 +1,11 @@
+<resources>
+    <string name="biodata">BIODATAr</string>
+    <string name="nama_depan">nama depan</string>
+    <string name="nama_belakang" >nama belakang</string>
+    <string name="tanggal_lahir">tanggal lahir</string>
+    <string name="alamat">alamat</string>
+    <string name="nomor_telepon" >nomor telepon</string>
+    <string name="bio_text" >bio</string>
+    <string name="app_name">biodata</string>
+
+</resources>
